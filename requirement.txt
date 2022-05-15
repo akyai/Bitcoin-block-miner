@@ -1,3 +1,5 @@
 hashlib
 pystyle==0.6
 os
+requests
+discord_webhook
